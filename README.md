@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Juanjo and I'm a Front-End Developer based in Barcelona, Spain.
+
+
+
 <!--
 **juanjotorres90/juanjotorres90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
